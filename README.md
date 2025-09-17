@@ -37,3 +37,8 @@ cd medicare-pro
 npm install
 npx prisma migrate dev
 npm run dev
+
+# Frontend
+cd medicare-frontend
+npm install
+npm start
